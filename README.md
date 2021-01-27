@@ -6,4 +6,7 @@ DOCUMENTACION
 Para los Diagramas:
 DER (Diagrama de Entidad Relación) para el modelado de las Base de Datos y Tablas.
 Diagrama de Clase (UML) el diseño 
+Kanban
+
+Utilzaremos diagrams.net
 
