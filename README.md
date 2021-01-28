@@ -4,7 +4,7 @@ proyectofs_gral-proyectofs_gral created by GitHub Classroom
 ## Introducción
 Una vez creado el proyecto, clonamos el repo en nuestro local. con Git Clone
 
-## DOCUMENTACION
+## Documentación
 Para los Diagramas:
 ### DER (Diagrama de Entidad Relación)
 para el modelado de las Base de Datos y Tablas.
