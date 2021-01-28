@@ -2,8 +2,8 @@
 proyectofs_gral-proyectofs_gral created by GitHub Classroom
 
 ## Trainers :couple:
-@RiotechFull
-@hchocobar
+@github/RiotechFull
+@github/hchocobar
 
 ## Introducción
 Una vez creado el proyecto, clonamos el repo en nuestro local. con Git Clone
