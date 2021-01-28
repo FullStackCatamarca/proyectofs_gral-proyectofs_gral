@@ -1,13 +1,18 @@
-# proyectofs_gral-proyectofs_gral
+# Proyecto FullStack Catamarca
 proyectofs_gral-proyectofs_gral created by GitHub Classroom
+
+## Trainers :couple:
+@RiotechFull
+@hchocobar
 
 ## Introducción
 Una vez creado el proyecto, clonamos el repo en nuestro local. con Git Clone
 
 ## Documentación
 Para los Diagramas:
-### DER (Diagrama de Entidad Relación)
+### Diagrama de Entidad Relación (DER)
 para el modelado de las Base de Datos y Tablas.
+
 Utilzaremos diagrams.net / basic / flowchart
 
 ### Diagrama de Clase (UML)
