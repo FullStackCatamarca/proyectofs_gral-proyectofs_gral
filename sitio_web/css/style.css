@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Mystery+Quest");
+
+p {
+  font-family: "Mystery Quest", cursive;
+  font-size: 150%;
+}
+
+body {
+  color: #40075a;
+  font-family: "Mystery Quest", cursive;
+  font-size: 150%;
+  font-weight: 300; /* aca es donde le dan el grosor de la fuente*/
+}
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+h2  {
+  color: green;
+  font-family: courier;
+  font-size: 200%;
+  align-content: ;
+
+}
+p {
+  color: #f96; /* este es color Naranja*/
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 160%;
+  padding: 1rem;
+  margin: 1rem;
+}
+.carac {
+  color: teal;
+  font-family: arial;
+  font-size: 80%;
+}
+
+
+  body {background-color: powderblue;}
+  h3   {color: blue;}
+  h4 {
+        color: orange;
+        font-style: italic;
+        font-family:sans-serif;
+      }
+  div    {color: red;}
+
+
+  *{box-sizing:border-box;margin:0;padding:0;}
+  @font-face{
+      font-family:alarm;
+      src:url(alarm.ttf);
+  }
+  .cronometro{
+      font-family: 'Big Shoulders Stencil Display', cursive;
+      width:600px;
+      height:500px;
+      top:50%;
+      left:50%;
+      position:absolute;
+      margin-top:-50px;
+      margin-left:-100px;
+      text-align:center;
+  } 
+  .boton{display:inline-block;width:32px;height:32px;position:relative;}
+  #hms{
+      height:68px;
+      padding:5px 0;
+      font-size:50px;
+      color:#000;
+      font-family: alarm;  
+   }
+      .start{background:url(/img/start.png) 0 0 no-repeat;}
+      .stop{background:url(/img/pause.png) 0 0 no-repeat;}
+      .reiniciar{background:url(/img/delete.png)0 0 no-repeat;}
